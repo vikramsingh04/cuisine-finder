@@ -41,10 +41,7 @@ You will also need to create a .env file in the root directory and set the follo
 
 ## Contributors
 
-[Michelle Tran](https://github.com/michelletrn)<br>
-[Peter Lim](https://github.com/peterlim995)<br>
-[Justin Yi](https://github.com/inputName-jy)<br>
-[Thomas Maly](https://github.com/ThomasJay44)
+
  
 ## Acknowledgements
 
