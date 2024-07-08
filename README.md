@@ -38,11 +38,13 @@ You will also need to create a .env file in the root directory and set the follo
 
 ![](./client/src/assets/recsearch1.JPG)
 
-
 ## Contributors
 
+[Vikram Singh](https://github.com/vikramsingh04)<br>
+[Debdwaipayan Biswas](https://github.com/Deb404Biswas)<br>
+[Giridhar Shanmugam](https://github.com/Giridox)<br>
+[Harikishore Manday](https://github.com/Hari-360)
 
- 
 ## Acknowledgements
 
 -This project was inspired by all those recipe websites that have complete life stories of the writer inserted into the page rather than getting right to the info you want.
