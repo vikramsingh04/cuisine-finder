@@ -5,6 +5,8 @@ mongoose.connect(
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
+    ssl: true, // Enable SSL
+    tlsInsecure: false,// Ensure TLS is secure
   }
 );
 
