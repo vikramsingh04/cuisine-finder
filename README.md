@@ -1,10 +1,10 @@
-# Recipe Finder
+# Cuisine Finder
 
-[RecipeFinder](https://cuisine-finder.vercel.app/)
+[CuisineFinder](https://cuisine-finder.vercel.app/)
 
 ## Overview
 
-Recipe Finder is a full-stack MERN (MongoDB, Express, React, Node.js) web application that allows users to search and save recipes. The app also allows users to add recipe ingredients to a shopping cart and either order groceries or email a shopping list.
+Cuisine Finder is a full-stack MERN (MongoDB, Express, React, Node.js) web application that allows users to search and save recipes. The app also allows users to add recipe ingredients to a shopping cart and either order groceries or email a shopping list.
 
 ## Features
 
